@@ -1,0 +1,7 @@
+life cycle effects on instances:
+Stop:the instance will be shutdown and again you will be able to start it
+start:a new public ipv4 is released
+reboot:it doesnt change ur public or private ip adresss ,its just stopping and starting your instance.
+terminate-
+public IP:terminating only public ip is not possible you should delete the whole instance
+Private Ip: private ip is released
